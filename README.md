@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NishaGill
+- I’m interested in Programming.
+- I’m currently learning Rhombix Technology.
+- I'm a internship member at Rhombix Technology.
+- It's my first month task which is based on python language Fibonacci Series Generator.
